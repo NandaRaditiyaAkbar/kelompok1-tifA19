@@ -4,4 +4,6 @@
     padding: 0;
     position: relative;
 }
-.bdy{}
+.bdy{
+	background-image: url(blue-snow.png) ;
+}
