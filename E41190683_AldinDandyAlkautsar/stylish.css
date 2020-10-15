@@ -1,3 +1,5 @@
-H1{
+Head{
     background-image: url("canadian-dollar.png");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
