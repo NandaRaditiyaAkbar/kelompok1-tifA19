@@ -4,6 +4,7 @@
     padding: 0;
     position: relative;
 }
-.bdy{
-	background-image: url(blue-snow.png) ;
+.body1{
+	background: url('blue-snow.png') ;
+	background-color: #109ed6;
 }
