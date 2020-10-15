@@ -1,5 +1,7 @@
-upper{
-    color: orange;
-	font-family: sans-serif;
-	text-align: center;
+.upper{
+	background: url(https://marketplace.canva.com/EADlIqZzi20/1/0/1600w/canva-green-nature-science-google-classroom-header-TUUTt_wU_iI.jpg) fixed top center /1600px 255px;
+    margin: 0; 
+    padding: 0;
+    position: relative;
 }
+.bdy{}
